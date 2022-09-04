@@ -34,7 +34,5 @@ jobs:
         run:  make test
                   
       
-      # Runs a set of commands using the runners shell
-      - name: Run a make command
-        run: make hello
+
          
